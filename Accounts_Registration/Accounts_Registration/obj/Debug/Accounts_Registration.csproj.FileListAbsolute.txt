@@ -1,0 +1,11 @@
+E:\UNIVERSITY\ALL SEMESTERS\SEMESTER 5\C #\Project for Contact Record\Accounts_Registration\Accounts_Registration\bin\Debug\Accounts_Registration.exe.config
+E:\UNIVERSITY\ALL SEMESTERS\SEMESTER 5\C #\Project for Contact Record\Accounts_Registration\Accounts_Registration\obj\Debug\Accounts_Registration.csprojResolveAssemblyReference.cache
+E:\UNIVERSITY\ALL SEMESTERS\SEMESTER 5\C #\Project for Contact Record\Accounts_Registration\Accounts_Registration\obj\Debug\Accounts_Registration.Properties.Resources.resources
+E:\UNIVERSITY\ALL SEMESTERS\SEMESTER 5\C #\Project for Contact Record\Accounts_Registration\Accounts_Registration\obj\Debug\Accounts_Registration.csproj.GenerateResource.Cache
+E:\UNIVERSITY\ALL SEMESTERS\SEMESTER 5\C #\Project for Contact Record\Accounts_Registration\Accounts_Registration\bin\Debug\Accounts_Registration.exe
+E:\UNIVERSITY\ALL SEMESTERS\SEMESTER 5\C #\Project for Contact Record\Accounts_Registration\Accounts_Registration\bin\Debug\Accounts_Registration.pdb
+E:\UNIVERSITY\ALL SEMESTERS\SEMESTER 5\C #\Project for Contact Record\Accounts_Registration\Accounts_Registration\obj\Debug\Accounts_Registration.exe
+E:\UNIVERSITY\ALL SEMESTERS\SEMESTER 5\C #\Project for Contact Record\Accounts_Registration\Accounts_Registration\obj\Debug\Accounts_Registration.pdb
+E:\UNIVERSITY\ALL SEMESTERS\SEMESTER 5\C #\Project for Contact Record\Accounts_Registration\Accounts_Registration\obj\Debug\Accounts_Registration.account_login.resources
+E:\UNIVERSITY\ALL SEMESTERS\SEMESTER 5\C #\Project for Contact Record\Accounts_Registration\Accounts_Registration\obj\Debug\Accounts_Registration.Account_Registration.resources
+E:\UNIVERSITY\ALL SEMESTERS\SEMESTER 5\C #\Project for Contact Record\Accounts_Registration\Accounts_Registration\obj\Debug\Accounts_Registration.view_form.resources
